@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yinnone
 - 👀 I’m interested in cyber and AI
 - 🌱 I’m currently learning c#, pyhton, javascript, sql.
-- 📫 How to reach me: email-yinnoneelia@gmail.com
+- 📫 How to reach me: yinnoneelia@gmail.com
 - ⚡ Fun fact: i hate c#
 
 <!---
