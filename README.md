@@ -44,35 +44,5 @@ You can click the Preview link to take a look at your changes.
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/yinnone07?theme=unicorn)
 
- <main>
-        <p>This page includes an image and a simple SVG graph.</p>
-        
-        <h2>Sample Image</h2>
-        <img src="https://via.placeholder.com/800x400" alt="Sample Image">
-
-        <h2>Sample Graph</h2>
-        <svg width="500" height="300" xmlns="http://www.w3.org/2000/svg">
-            <!-- Background -->
-            <rect width="100%" height="100%" fill="#f4f4f4" stroke="#333" stroke-width="2"/>
-            
-            <!-- Bars -->
-            <rect x="50" y="150" width="40" height="100" fill="rgba(255, 99, 132, 0.8)"/>
-            <rect x="100" y="100" width="40" height="150" fill="rgba(54, 162, 235, 0.8)"/>
-            <rect x="150" y="180" width="40" height="70" fill="rgba(255, 206, 86, 0.8)"/>
-            <rect x="200" y="120" width="40" height="120" fill="rgba(75, 192, 192, 0.8)"/>
-            <rect x="250" y="170" width="40" height="80" fill="rgba(153, 102, 255, 0.8)"/>
-            <rect x="300" y="130" width="40" height="120" fill="rgba(255, 159, 64, 0.8)"/>
-
-            <!-- Labels -->
-            <text x="50" y="270" font-size="14" fill="#333">Red</text>
-            <text x="100" y="270" font-size="14" fill="#333">Blue</text>
-            <text x="150" y="270" font-size="14" fill="#333">Yellow</text>
-            <text x="200" y="270" font-size="14" fill="#333">Green</text>
-            <text x="250" y="270" font-size="14" fill="#333">Purple</text>
-            <text x="300" y="270" font-size="14" fill="#333">Orange</text>
-        </svg>
-    </main>
-    <footer>
-        <p>&copy; 2024 My GitHub Page</p>
-    </footer>
+ 
 
