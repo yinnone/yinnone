@@ -42,5 +42,5 @@ You can click the Preview link to take a look at your changes.
 
 ## Contact
 
-![](https://leetcard.jacoblin.cool/yinnone07?ext=activity?theme=light,unicorn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/yinnone07?theme=unicorn)
 
